@@ -64,9 +64,6 @@ source venv/bin/activate
 # 📦 Install Dependencies
 pip install -r requirements.txt
 
-# 📦 Install Dependencies
-pip install -r requirements.txt
-
 # ▶️ Run the FastAPI Server
 python main.py
 
