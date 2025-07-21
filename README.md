@@ -77,9 +77,10 @@ Copy the example `.env` file:
 ```bash
 cp .env.example .env
 ```
-Then open `.env` and add your OpenAI API key:
+Then open `.env` and add your Google API key and Tavily API key:
 
 ```ini
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+GOOGLE_API_KEY=your_google_api_key_here
+TAVILY_API_KEY=your_tavily_api_key_here
 
 
